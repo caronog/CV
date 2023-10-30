@@ -1,18 +1,18 @@
-## Your Name
+## Carolina Nogueira
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| Name                         | Description                                             | Tech/tools                                                        |
+| ---------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Reliability project**      | A project to improve the reliability of an external API | AWS, Nginx, CloudFront, S3, Athena, CloudWatch, Agile Methodology |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers** (July/23 to October/23)  
+_Student_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
