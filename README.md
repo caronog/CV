@@ -1,6 +1,12 @@
-## Carolina Nogueira 🦩
+## Carolina Nogueira ☕
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A systematic, self-driven and collaborative Junior Cloud Engineer by day, and a casual yogi and cyclist by night. Also, a coffee enthusiast at any time.
+
+
+In my previous roles across various industries, I gained valuable experience working in diverse environments, resolving conflicts, and refining my organisational skills. I got into technology because of its constant presence in our lives and social impact. Also, I enjoy feeling intellectually challenged and the perspective of working in an industry where there is always the chance to learn something new.
+
+
+I want to work at a company that also shares my goal of using technology to change the world for the better. Having now graduated from Makers, I am eager to use my adaptable nature, analytical mind, and continuously developing tech skills to contribute to this vision.
 
 ## Projects 👩‍💻
 
