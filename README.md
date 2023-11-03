@@ -11,21 +11,32 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Makers** (July/23 to October/23)  
-_Student_
+**Makers Academy** (Jul 2023 – Oct 2023)  
+_Student (Cloud Engineering specialisation)_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Worked on a range of projects, applying test-driven development (TDD), agile methodologies, OOP principles, version control (Git / GitHub) and pair programming;
+- Python, SQL, HTML, CSS;
+- CI/CD pipelines using Jenkins and GitHub Actions;
+- Infrastructure as Code (IaC) using Terraform and AWS CloudFormation;
+- Containerisation (Docker) and container orchestration (k8s);
+- Threat modelling using SAST and DAST tools;
+- Serverless backend with AWS Lambda and AWS API Gateway.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Badass Mentoring** (Oct 2020 – Jan 2021)  
+_Executive Assistant_
 
-- Any experience relevent to software development
+- I implemented a CRM prototype and a few internal procedures.These initiatives enabled the CEO to focus entirely on her primary role as a mentor, attracting new clients to the company and enhancing relationships with existing ones.
+
+**Asia Shipping Logistics** (Jul 2016 – Dec 2019)  
+_Import Analyst_
+
+- Coordinated multiple international shipments and deadlines in a fast-paced and dynamic environment.
 
 ## Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Consider skills relevant to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevant to technology. Good examples clearly explain the impact you've had. 
 
 
 Here's an example
@@ -45,20 +56,10 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Centro Universitário Curitiba (Aug 2011 – Jun 2015)
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- International Relations Bachelor’s Degree
+  
 
 #### Any other qualifications
 
