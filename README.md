@@ -7,7 +7,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description                                             | Tech/tools                                                        |
 | ---------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
 | **Reliability project**      | A project to improve the reliability of an external API | AWS, Nginx, CloudFront, S3, Athena, CloudWatch, Agile Methodology |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+<!--| **Something else worked on** | A webapp to do y. | Ruby              |-->
 
 ## Experience
 
