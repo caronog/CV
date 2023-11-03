@@ -44,6 +44,9 @@ Here's an example
 #### Adaptability
 During the pandemic, I started an Instagram page dedicated to discussing personal finances and conducted small consulting meetings and group discussions. This experience was fundamental in honing my ability to translate customer needs into effective financial plans.
 
+#### Enthusiastic and versatile learner
+I began learning about personal finances for personal reasons, gradually becoming a trusted resource among friends and family. I even spoke about it at an event. Creating an Instagram page to discuss this topic allowed me to explore social media and content creation, organically growing my audience to approximately 900 users within two months.
+
 #### Another skill
 
 - I achieved A during my work at B (job, or otherwise)
