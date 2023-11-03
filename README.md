@@ -62,4 +62,4 @@ That in some arguable way make you a better software developer or well-rounded p
 When I'm not coding, you can find me:
 - 🧘 Doing some yoga
 - 📚 Reading - I'm reading "The Phoenix Project" now
-- 💻 Watching YouTube videos about GTD - GTD stands for "Getting Things Done"; it's a productivity and self-management system
+- 💻 Watching YouTube videos about GTD - GTD stands for "Getting Things Done", a productivity and self-management system
